@@ -1,11 +1,13 @@
 import './App.css';
-import { useState } from 'react'
+// import { useState } from 'react'
+import { ShowExample2  } from './components/Avatar'
+
 
 
 
 function App() {
   return (
-    <>hello wrold</>
+    <ShowExample2></ShowExample2>
   );
 }
 
