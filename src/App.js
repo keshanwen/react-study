@@ -1,13 +1,13 @@
 import './App.css';
 // import { useState } from 'react'
-import { ShowExample2  } from './components/Avatar'
+import RenderList from './components/RenderList'
 
 
 
 
 function App() {
   return (
-    <ShowExample2></ShowExample2>
+    <RenderList></RenderList>
   );
 }
 
